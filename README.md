@@ -109,9 +109,3 @@ Use Postman to test:
 2. Login and copy the JWT token
 3. Add the token as `Bearer <token>` in the `Authorization` header
 4. Create, fetch, update, and delete customer records
-
-## Submission Notes
-
-- Record a screen video showing register, login, and full CRUD functionality
-- Push the project to GitHub with meaningful commits
-- Include this README in the repository for documentation
